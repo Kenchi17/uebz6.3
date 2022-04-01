@@ -41,8 +41,8 @@ def main():
     # set in debug
     api_id = 7386053
     api_hash = '78d1c032f3aa546ff5176d9ff0e7f341'
-    bot_token = '5165975001:AAH3E2DCwGHQAiy9tfOElKRFNOC7srUvmj4'
-    tl_admin_user = 'obisoftdev'
+    bot_token = '5211163116:AAHhhiAiP2_zdByKtHoRBcM6jILTbR9Dajc'
+    tl_admin_user = 'rockstar984'
     # end
 
     #create dispatcher and regs
